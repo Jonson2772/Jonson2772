@@ -27,4 +27,9 @@ Product Manager с предпринимательским и операцион�
 
 Открыт к ролям Product Manager, Product Owner и Product / Project Manager.
 
+## Контакты
+
+- Telegram: [@DenRoks](https://t.me/DenRoks)
+- Email: [denproskur@mail.ru](mailto:denproskur@mail.ru)
+
 > Публичные кейсы обезличены. Коммерчески чувствительные данные, персональные данные и внутренние документы не публикуются.
