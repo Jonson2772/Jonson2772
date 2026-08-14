@@ -21,9 +21,9 @@ Product Manager с предпринимательским и операцион�
 - Запустил B2B-MVP за одну неделю и получил первых платящих клиентов.
 - Руководил командами общей численностью до 44 человек.
 
-## Портфолио
+## 🚀 [Открыть продуктовое портфолио →](https://github.com/Jonson2772/product-manager-portfolio)
 
-👉 [Продуктовые кейсы: Discovery, MVP, B2B и операционные продукты](https://github.com/Jonson2772/product-manager-portfolio)
+**Кейсы по Product Discovery, запуску MVP, B2B и операционным продуктам — с задачами, решениями и измеримыми результатами.**
 
 Открыт к ролям Product Manager, Product Owner и Product / Project Manager.
 
